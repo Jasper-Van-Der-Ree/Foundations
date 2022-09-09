@@ -1,0 +1,28 @@
+{"IndicatorCode":"AIR_10","IndicatorName":"Ambient air pollution  attributable DALYs per 100'000 children under 5 years","Language":"EN"},
+{"IndicatorCode":"AIR_11","IndicatorName":"Household air pollution attributable deaths","Language":"EN"},
+{"IndicatorCode":"AIR_12","IndicatorName":"Household air pollution attributable deaths in children under 5 years","Language":"EN"},
+{"IndicatorCode":"AIR_13","IndicatorName":"Household air pollution attributable deaths per 100'000 capita","Language":"EN"},
+{"IndicatorCode":"AIR_14","IndicatorName":"Household air pollution  attributable deaths per 100'000 children under 5 years","Language":"EN"},
+{"IndicatorCode":"AIR_15","IndicatorName":"Household air pollution attributable DALYs","Language":"EN"},
+{"IndicatorCode":"AIR_16","IndicatorName":"Household air pollution attributable DALYs in children under 5 years","Language":"EN"},
+{"IndicatorCode":"AIR_17","IndicatorName":"Household air pollution attributable DALYs (per 100 000 population)","Language":"EN"},
+{"IndicatorCode":"AIR_18","IndicatorName":"Household air pollution  attributable DALYs per 100'000 children under 5 years","Language":"EN"},
+{"IndicatorCode":"AIR_39","IndicatorName":"Household air pollution attributable DALYs (per 100 000, age-standardized)","Language":"EN"},
+{"IndicatorCode":"AIR_4","IndicatorName":"Ambient air pollution attributable deaths in children under 5 years","Language":"EN"},
+{"IndicatorCode":"AIR_41","IndicatorName":"Ambient air pollution attributable deaths","Language":"EN"},
+{"IndicatorCode":"AIR_42","IndicatorName":"Ambient air pollution attributable death rate (per 100 000 population, age-standardized)","Language":"EN"},
+{"IndicatorCode":"AIR_43","IndicatorName":"Ambient air pollution attributable DALYs","Language":"EN"},
+{"IndicatorCode":"AIR_44","IndicatorName":"DALYs attributable to ambient air pollution (age-standardized)","Language":"EN"},
+{"IndicatorCode":"AIR_45","IndicatorName":"Ambient air pollution attributable YLLs","Language":"EN"},
+{"IndicatorCode":"AIR_5","IndicatorName":"Ambient air pollution attributable death rate (per 100 000 population)","Language":"EN"},
+{"IndicatorCode":"AIR_50","IndicatorName":"Ambient air pollution attributable deaths (per 100 000 population, age-standardized)","Language":"EN"},
+{"IndicatorCode":"AIR_51","IndicatorName":"Household air pollution attributable death rate (per 100 000 population)","Language":"EN"},
+{"IndicatorCode":"AIR_52","IndicatorName":"Household air pollution attributable death rate (per 100 000 population, age-standardized)","Language":"EN"},
+{"IndicatorCode":"AIR_6","IndicatorName":"Ambient air pollution  attributable deaths per 100'000 children under 5 years","Language":"EN"},
+{"IndicatorCode":"AIR_7","IndicatorName":"Ambient air pollution attributable DALYs","Language":"EN"},
+{"IndicatorCode":"AIR_8","IndicatorName":"Ambient air pollution attributable DALYs  in children under 5 years","Language":"EN"},
+{"IndicatorCode":"AIR_9","IndicatorName":"Ambient air pollution attributable DALYs  (per 100 000 population)","Language":"EN"},
+{"IndicatorCode":"AIR_90","IndicatorName":"Ambient air pollution attributable DALYs  (per 100 000 population, age-standardized)","Language":"EN"}
+
+DALY: Disability Adjusted Life Years
+All tables in this indicator are comprised of instances with a country, year, value, and date reported value
